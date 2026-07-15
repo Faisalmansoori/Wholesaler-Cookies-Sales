@@ -89,6 +89,8 @@ CSV file located in `/Data/` folder (RawData)
 
 ![Wholesaler Cookies Sales Dashboard](images/dashboard.png)
 
+---
+
 <h2><a class="anchor" id="result-&-conclusion"></a>Results & Conclusion</h2>
 
 The analysis reveals that the wholesale cookie business is highly profitable, generating approximately $2.72 million in profit from $4.69 million in revenue. Chocolate Chip Cookies are the primary revenue driver and should remain a strategic focus. Retailers 3 and 4 contribute the largest share of sales and profits, making them key business partners. Overall, the company demonstrates strong market demand and sustainable profitability.
